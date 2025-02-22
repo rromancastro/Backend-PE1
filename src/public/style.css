@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(20, 51, 71);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    color: #fafafa;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+li {
+    color: #fafafa;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
